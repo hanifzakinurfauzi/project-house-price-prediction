@@ -31,4 +31,9 @@ Nilai RMSE pada data test 29981.21 <br>
 Nilai R2-squared pada data train 80% <br>
 Nilai R2-squared pada data test 75% <br>
 
+Proyek ini bertujuan untuk memberikan pemahaman yang lebih baik tentang proses memprediksi harga rumah menggunakan teknik machine learning. Diharapkan bahwa hasil dari proyek ini dapat bermanfaat bagi mereka yang tertarik dalam analisis real estate atau machine learning.
+
+Jika Anda tertarik untuk mengetahui lebih lanjut atau berkontribusi pada proyek ini, silakan lihat kode sumber dan dokumentasi yang terlampir.
+
+Terima kasih atas perhatiannya!
 
