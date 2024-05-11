@@ -1,4 +1,4 @@
-# **House Price Prediction** <br>
+# **Project House Price Prediction** <br>
 Repository ini merupakan salah satu proses dari program Bootcamp Data Science di Qarir Generator Batch 28 dan disusun oleh: <br>
 Hanif Zaki Nur Fauzi <br>
 Data source: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
